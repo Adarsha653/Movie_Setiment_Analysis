@@ -9,3 +9,4 @@
 5. Dumped model and TF-IDF with pickle
 6. Created an app.py with flask, index.html and style.css to create a website for users to enter their sentiments and predict if they are positive or negative.
 
+![image](https://github.com/user-attachments/assets/b368c060-516f-4269-b842-234e2e9c2c19)
